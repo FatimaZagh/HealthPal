@@ -1,1 +1,1 @@
-# HealthPal
+# healthpal
